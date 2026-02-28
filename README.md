@@ -16,6 +16,17 @@ ICLR 2026 共 **223 篇 Oral 论文**的完整列表，包含摘要、作者、�
 | [paper-details.md](paper-details.md) | Full details: abstracts, authors, affiliations, keywords / 完整英文信息 |
 | [paper-details-translated.md](paper-details-translated.md) | Bilingual version with Chinese translations / 中英双语翻译版 |
 
+### Topic Collections | 专题论文集
+
+| File | Papers | Description |
+|------|--------|-------------|
+| [distillation-papers.md](distillation-papers.md) | 5 | Knowledge Distillation for LLMs / 大模型知识蒸馏 |
+| [rl-papers.md](rl-papers.md) | 24 | Reinforcement Learning / 强化学习 |
+
+Each topic collection includes bilingual summaries, **background, motivation, innovations, and open-source code availability** for every paper, with full PDFs in the corresponding `*-pdfs/` folder.
+
+每个专题论文集包含双语摘要、**背景、动机、创新点、开源代码**等深度分析信息，对应的 `*-pdfs/` 文件夹中包含论文 PDF 全文。
+
 ## What's Included | 包含信息
 
 For each paper:
